@@ -61,48 +61,48 @@ Incluye facturacion automatica y reportes de ingresos y ocupacion de bahias.
 
 ### Login
 <p align="center">
-  <img src="assets/screenshots/login.png" width="380" height="280"/>
+  <img src="assets/screenshots/login.png" width="380"/>
+</p>
+
+### Menu Principal
+<p align="center">
+  <img src="assets/screenshots/principal.png" width="380"/>
 </p>
 
 ### Gestion de Empleados y Bahias
-<p align="center">
-  <img src="assets/screenshots/empleados.png" width="380" height="280"/>
-  &nbsp;
-  <img src="assets/screenshots/bahias.png" width="380" height="280"/>
-</p>
+<table align="center"><tr>
+  <td><img src="assets/screenshots/empleados.png" width="380"/></td>
+  <td><img src="assets/screenshots/bahias.png" width="380"/></td>
+</tr></table>
 
 ### Gestion de Servicios y Clientes
-<p align="center">
-  <img src="assets/screenshots/servicios.png" width="380" height="280"/>
-  &nbsp;
-  <img src="assets/screenshots/clientes.png" width="380" height="280"/>
-</p>
+<table align="center"><tr>
+  <td><img src="assets/screenshots/servicios.png" width="380"/></td>
+  <td><img src="assets/screenshots/clientes.png" width="380"/></td>
+</tr></table>
 
 ### Gestion de Vehiculos y Citas
-<p align="center">
-  <img src="assets/screenshots/vehiculos.png" width="380" height="280"/>
-  &nbsp;
-  <img src="assets/screenshots/citas.png" width="380" height="280"/>
-</p>
+<table align="center"><tr>
+  <td><img src="assets/screenshots/vehiculos.png" width="380"/></td>
+  <td><img src="assets/screenshots/citas.png" width="380"/></td>
+</tr></table>
 
 ### Recepcion y Atencion
-<p align="center">
-  <img src="assets/screenshots/recepcion.png" width="380" height="280"/>
-  &nbsp;
-  <img src="assets/screenshots/atencion.png" width="380" height="280"/>
-</p>
+<table align="center"><tr>
+  <td><img src="assets/screenshots/recepcion.png" width="380"/></td>
+  <td><img src="assets/screenshots/atencion.png" width="380"/></td>
+</tr></table>
 
 ### Entrega del Vehiculo
 <p align="center">
-  <img src="assets/screenshots/entrega.png" width="380" height="280"/>
+  <img src="assets/screenshots/entrega.png" width="380"/>
 </p>
 
 ### Reportes
-<p align="center">
-  <img src="assets/screenshots/reporte_bahias.png" width="380" height="280"/>
-  &nbsp;
-  <img src="assets/screenshots/reporte_ingresos.png" width="380" height="280"/>
-</p>
+<table align="center"><tr>
+  <td><img src="assets/screenshots/reporte_bahias.png" width="380"/></td>
+  <td><img src="assets/screenshots/reporte_ingresos.png" width="380"/></td>
+</tr></table>
 
 
 ---
