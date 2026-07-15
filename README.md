@@ -22,6 +22,61 @@ gestion integral de ordenes de trabajo y atencion de vehiculos en un taller meca
 
 ---
 
+## Capturas del Sistema
+
+### Login
+<p align="center">
+  <img src="assets/screenshots/login.png" width="600"/>
+</p>
+
+### Menu Principal
+<p align="center">
+  <img src="assets/screenshots/principal.png" width="700"/>
+</p>
+
+### Gestion de Empleados y Bahias
+<p align="center">
+  <img src="assets/screenshots/empleados.png" width="48%"/>
+  &nbsp;
+  <img src="assets/screenshots/bahias.png" width="48%"/>
+</p>
+
+### Gestion de Servicios y Clientes
+<p align="center">
+  <img src="assets/screenshots/servicios.png" width="48%"/>
+  &nbsp;
+  <img src="assets/screenshots/clientes.png" width="48%"/>
+</p>
+
+### Gestion de Vehiculos y Citas
+<p align="center">
+  <img src="assets/screenshots/vehiculos.png" width="48%"/>
+  &nbsp;
+  <img src="assets/screenshots/citas.png" width="48%"/>
+</p>
+
+### Recepcion y Atencion
+<p align="center">
+  <img src="assets/screenshots/recepcion.png" width="48%"/>
+  &nbsp;
+  <img src="assets/screenshots/atencion.png" width="48%"/>
+</p>
+
+### Entrega del Vehiculo
+<p align="center">
+  <img src="assets/screenshots/entrega.png" width="600"/>
+</p>
+
+### Reportes
+<p align="center">
+  <img src="assets/screenshots/reporte_bahias.png" width="48%"/>
+  &nbsp;
+  <img src="assets/screenshots/reporte_ingresos.png" width="48%"/>
+</p>
+
+
+
+
 ## Tabla de Contenidos
 
 - [Descripcion](#descripcion)
