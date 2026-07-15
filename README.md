@@ -63,11 +63,6 @@ Incluye facturacion automatica y reportes de ingresos y ocupacion de bahias.
   <img src="assets/screenshots/login.png" width="600"/>
 </p>
 
-### Menu Principal
-<p align="center">
-  <img src="assets/screenshots/principal.png" width="700"/>
-</p>
-
 ### Gestion de Empleados y Bahias
 <p align="center">
   <img src="assets/screenshots/empleados.png" width="48%"/>
