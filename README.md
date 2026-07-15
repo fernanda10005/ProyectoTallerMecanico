@@ -22,6 +22,40 @@ gestion integral de ordenes de trabajo y atencion de vehiculos en un taller meca
 
 ---
 
+## Tabla de Contenidos
+
+- [Descripcion](#descripcion)
+- [Caracteristicas](#caracteristicas)
+- [Tecnologias](#tecnologias)
+- [Conceptos POO Aplicados](#conceptos-poo-aplicados)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Instalacion y Ejecucion](#instalacion-y-ejecucion)
+- [Credenciales de Prueba](#credenciales-de-prueba)
+- [Capturas del Sistema](#capturas-del-sistema)
+- [Modulos del Sistema](#modulos-del-sistema)
+- [Flujo de Trabajo](#flujo-de-trabajo)
+
+---
+
+## Descripcion
+
+Sistema de gestion de taller mecanico que permite administrar empleados,
+bahias de trabajo, servicios, clientes, vehiculos, citas y ordenes de trabajo.
+Incluye facturacion automatica y reportes de ingresos y ocupacion de bahias.
+
+---
+
+## Caracteristicas
+
+- Autenticacion con control de acceso por rol
+- Gestion completa de empleados, clientes y vehiculos
+- Registro y seguimiento de ordenes de trabajo
+- Control de bahias de trabajo con estados en tiempo real
+- Facturacion automatica al momento de entrega
+- Reportes de ocupacion de bahias e ingresos por fechas
+- Interfaz grafica con paleta de colores Rosa Acero
+- Almacenamiento en memoria RAM sin base de datos externa
+
 ## Capturas del Sistema
 
 ### Login
@@ -74,42 +108,6 @@ gestion integral de ordenes de trabajo y atencion de vehiculos en un taller meca
   <img src="assets/screenshots/reporte_ingresos.png" width="48%"/>
 </p>
 
-
-
-
-## Tabla de Contenidos
-
-- [Descripcion](#descripcion)
-- [Caracteristicas](#caracteristicas)
-- [Tecnologias](#tecnologias)
-- [Conceptos POO Aplicados](#conceptos-poo-aplicados)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Instalacion y Ejecucion](#instalacion-y-ejecucion)
-- [Credenciales de Prueba](#credenciales-de-prueba)
-- [Capturas del Sistema](#capturas-del-sistema)
-- [Modulos del Sistema](#modulos-del-sistema)
-- [Flujo de Trabajo](#flujo-de-trabajo)
-
----
-
-## Descripcion
-
-Sistema de gestion de taller mecanico que permite administrar empleados,
-bahias de trabajo, servicios, clientes, vehiculos, citas y ordenes de trabajo.
-Incluye facturacion automatica y reportes de ingresos y ocupacion de bahias.
-
----
-
-## Caracteristicas
-
-- Autenticacion con control de acceso por rol
-- Gestion completa de empleados, clientes y vehiculos
-- Registro y seguimiento de ordenes de trabajo
-- Control de bahias de trabajo con estados en tiempo real
-- Facturacion automatica al momento de entrega
-- Reportes de ocupacion de bahias e ingresos por fechas
-- Interfaz grafica con paleta de colores Rosa Acero
-- Almacenamiento en memoria RAM sin base de datos externa
 
 ---
 
